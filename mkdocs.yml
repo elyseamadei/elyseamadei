@@ -1,0 +1,49 @@
+site_name: Elyse Amadei
+use_directory_urls: false
+
+theme:
+  name: material
+  language: fr
+  palette:
+    primary: black
+  logo: assets/logo/monogramme_EA_inverted.png
+  features:
+    - navigation.tabs
+    - toc.integrate
+  custom_dir: theme_overrides
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://fr.linkedin.com/in/elyse-amadei-37842488
+      name: Elyse Amadei on LinkedIn
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/elyseamadei
+      name: Elyse Amadei on Instagram
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/Elyse-Amadei-Cr%C3%A9atrice-Accessoires-de-mode-1432345936995681/
+      name: Elyse Amadei on Facebook
+
+copyright: Copyright &copy; 2005-2022 Elyse Amadei
+
+nav:
+  - Accueil: index.md
+  - Créatrice: creatrice.md
+  - Contact: contact.md
+
+# https://facelessuser.github.io/pymdown-extensions/extensions/progressbar/
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.mark
+  - pymdownx.progressbar:
+      level_class: false
+  - pymdownx.tasklist:
+      custom_checkbox: true
