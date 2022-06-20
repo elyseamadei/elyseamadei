@@ -1,5 +1,6 @@
 site_name: Elyse Amadei
 use_directory_urls: false
+site_description: "Elyse Amadei, créatrice d'accessoires de mode faits main en France."
 
 theme:
   name: material
