@@ -1,6 +1,6 @@
 # Elyse Amadei
 
-Bienvenue chez Elyse Amadei, créatrice d'**accessoires de mode fait main en France** :fr:.
+Bienvenue chez Elyse Amadei, créatrice d'**accessoires de mode faits main en France** :fr:.
 
 ![](assets/images/IMG_0688.jpg){: style="width:49%;border-radius: 5%;"}
 ![](assets/images/PACK-3-NICKEL-1152x1536.jpg){: style="width:49%;border-radius: 5%;"}
