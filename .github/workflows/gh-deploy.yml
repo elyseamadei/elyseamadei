@@ -13,6 +13,11 @@ jobs:
       - name: Checkout master
         uses: actions/checkout@v2
 
+      - name: Install SSH key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+
       - name: Set up Python 3.9
         uses: actions/setup-python@v2
         with:
