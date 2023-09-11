@@ -2,20 +2,52 @@
 
 Bienvenue chez **Elyse Amadei**, créatrice d'**accessoires de mode faits main en France** :fr:.
 
-![](assets/images/vitrine/IMG_5873.jpg){: style="width:49%;border-radius:5%;"}
-![](assets/images/vitrine/IMG_5875.jpg){: style="width:49%;border-radius:5%;"}
+## Optique
 
-![](assets/images/vitrine/IMG_5869.jpg){: style="width:49%;border-radius:5%;"}
-![](assets/images/vitrine/IMG_5888.jpg){: style="width:49%;border-radius:5%;"}
+<style>
+    .md-typeset img, .md-typeset svg, .md-typeset video {
+        height: 400px;
+    }
+</style>
 
-![](assets/images/vitrine/IMG_5600.jpg){: style="width:49%;border-radius:5%;"}
-![](assets/images/vitrine/IMG_5880.jpg){: style="width:49%;border-radius:5%;"}
+<div class="grid cards" markdown>
 
-![](assets/images/vitrine/IMG_5555.jpg){: style="width:49%;border-radius:5%;"}
-![](assets/images/vitrine/IMG_5578.jpg){: style="width:49%;border-radius:5%;"}
+- ![](assets/images/202308/IMG_6164.jpg)
+- ![](assets/images/202308/IMG_7145.jpg)
+- ![](assets/images/202308/IMG_7107.jpg)
+- ![](assets/images/202308/IMG_6265.jpg)
+- ![](assets/images/202308/IMG_7292.jpg)
+- ![](assets/images/202308/IMG_7293.jpg)
+- ![](assets/images/202308/IMG_7294.jpg)
+- ![](assets/images/202308/IMG_7297.jpg)
+- ![](assets/images/202308/IMG_7327.jpg)
+- ![](assets/images/202308/IMG_7344.jpg)
+- ![](assets/images/vitrine/IMG_5873.jpg)
+- ![](assets/images/vitrine/IMG_5875.jpg)
+- ![](assets/images/vitrine/IMG_5869.jpg)
+- ![](assets/images/vitrine/IMG_5888.jpg)
+- ![](assets/images/vitrine/IMG_5600.jpg)
+- ![](assets/images/vitrine/IMG_5555.jpg)
+- ![](assets/images/vitrine/IMG_5578.jpg)
+- ![](assets/images/vitrine/IMG_5759.jpg)
+- ![](assets/images/vitrine/IMG_5583.jpg)
+- ![](assets/images/vitrine/IMG_5878.jpg)
 
-![](assets/images/vitrine/IMG_5759.jpg){: style="width:49%;border-radius:5%;"}
-![](assets/images/vitrine/IMG_5583.jpg){: style="width:49%;border-radius:5%;"}
+</div>
 
-![](assets/images/vitrine/IMG_5878.jpg){: style="width:49%;border-radius:5%;"}
-![](assets/images/vitrine/IMG_5967.jpg){: style="width:49%;border-radius:5%;"}
+## Bracelets
+
+<div class="grid cards" markdown>
+
+- ![](assets/images/202308/IMG_6806.jpg)
+- ![](assets/images/202308/IMG_6811.jpg)
+- ![](assets/images/202308/IMG_6816.jpg)
+- ![](assets/images/202308/IMG_6817.jpg)
+- ![](assets/images/202308/IMG_6824.jpg)
+- ![](assets/images/202308/IMG_6827.jpg)
+- ![](assets/images/202308/IMG_6830.jpg)
+- ![](assets/images/202308/IMG_6820.jpg)
+- ![](assets/images/vitrine/IMG_5967.jpg)
+- ![](assets/images/202308/IMG_6814.jpg)
+
+</div>

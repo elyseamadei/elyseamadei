@@ -9,6 +9,7 @@ theme:
     primary: black
   logo: assets/logo/monogramme_EA_inverted.png
   features:
+    - navigation.index
     - navigation.tabs
     - toc.integrate
   custom_dir: theme_overrides
@@ -25,11 +26,22 @@ extra:
       link: https://www.facebook.com/Elyse-Amadei-Cr%C3%A9atrice-Accessoires-de-mode-1432345936995681/
       name: Elyse Amadei on Facebook
 
-copyright: Copyright &copy; 2005-2022 Elyse Amadei
+copyright: Copyright &copy; 2005-2023 Elyse Amadei
 
 nav:
   - Nos Créations: index.md
   - Le Catalogue: assets/Catalogue Elyse AMADEI 2023.pdf
+  # - Optique:
+  #   - Cordons Adultes: cordons_adultes.md
+  #   - Cordons Chic'alors: cordons_chic_alors.md
+  #   - Cordons Les Amis: cordons_amis.md
+  #   - Cordons Enfants: cordons_engants.md
+  #   - Chaînettes Mailles: chainettes_mailles.md
+  #   - Colliers: colliers.md
+  # - Bracelets:
+  #   - Magic' Trilogy: magic_trilogy.md
+  #   - Pierres Uniques: pierres_uniques.md
+  #   - Les vertues des pierres: vertues.md
   - La Créatrice: creatrice.md
   - Nous Contacter: contact.md
 
@@ -49,3 +61,6 @@ markdown_extensions:
       level_class: false
   - pymdownx.tasklist:
       custom_checkbox: true
+
+plugins:
+  - glightbox
