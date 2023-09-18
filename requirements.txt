@@ -1,3 +1,4 @@
 -e git+ssh://git@github.com/squidfunk/mkdocs-material-insiders.git@9.2.5-insiders-4.40.1#egg=mkdocs-material
 mkdocs==1.5.2
 mkdocs-glightbox==0.3.4
+ExifRead==3.0.0

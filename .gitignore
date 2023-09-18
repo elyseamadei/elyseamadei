@@ -1,2 +1,3 @@
 *.swp
 site/
+__pycache__/

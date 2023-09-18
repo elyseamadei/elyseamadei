@@ -42,6 +42,7 @@ nav:
   #   - Magic' Trilogy: magic_trilogy.md
   #   - Pierres Uniques: pierres_uniques.md
   #   - Les vertues des pierres: vertues.md
+  - Bracelets: bracelets.md
   - La Créatrice: creatrice.md
   - Nous Contacter: contact.md
 
@@ -64,3 +65,6 @@ markdown_extensions:
 
 plugins:
   - glightbox
+
+hooks:
+  - hooks.py
