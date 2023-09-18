@@ -8,6 +8,7 @@ theme:
   palette:
     primary: black
   logo: assets/logo/monogramme_EA_inverted.png
+  favicon: assets/logo/favicon.ico
   features:
     - navigation.index
     - navigation.tabs
