@@ -32,8 +32,8 @@ copyright: Copyright &copy; 2005-2023 Elyse Amadei
 nav:
   - Nos Créations: index.md
   - Le Catalogue: assets/Catalogue Elyse AMADEI 2023.pdf
-  # - Optique:
-  #   - Cordons Adultes: cordons_adultes.md
+  - Optique:
+    - Cordons Adultes: cordons_adultes.md
   #   - Cordons Chic'alors: cordons_chic_alors.md
   #   - Cordons Les Amis: cordons_amis.md
   #   - Cordons Enfants: cordons_engants.md
@@ -68,4 +68,5 @@ plugins:
   - glightbox
 
 hooks:
-  - hooks.py
+  - bracelets.py
+  - cordons.py

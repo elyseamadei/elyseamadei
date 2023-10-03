@@ -4,14 +4,14 @@ import exifread
 
 def on_page_markdown(markdown, page, config, files):
 
-    if "bracelets" not in page.title.lower():
+    if "cordons" not in page.title.lower():
         return
     
-    markdown += "## Magic'Trilogy\n\n"
+    # markdown += "## Packs Adultes\n\n"
 
     markdown += '<div class="grid cards" markdown>\n\n'
 
-    for file_path in sorted(glob.glob(f"{config.docs_dir}/assets/images/bracelets/magic_trilogy/*")):
+    for file_path in sorted(glob.glob(f"{config.docs_dir}/assets/images/cordons/adulte/*")):
         f = open(file_path, 'rb')
         tags = exifread.process_file(f)
         description = tags.get("Image ImageDescription")
@@ -26,5 +26,5 @@ def on_page_markdown(markdown, page, config, files):
 
     markdown += '\n</div>\n'
 
-    print(markdown)
+    # print(markdown)
     return markdown
