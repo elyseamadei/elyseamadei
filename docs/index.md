@@ -12,36 +12,36 @@ Bienvenue chez **Elyse Amadei**, créatrice d'**accessoires de mode faits main e
 
 <div class="grid cards" markdown>
 
-- ![](assets/images/20240228/IMG_7816.jpg)
-- ![](assets/images/20240228/IMG_7817.jpg)
-- ![](assets/images/20240228/IMG_7870.jpg)
-- ![](assets/images/20240228/IMG_8303.jpg)
-- ![](assets/images/20240228/IMG_8541.jpg)
-- ![](assets/images/20240228/IMG_8601.jpg)
-- ![](assets/images/20240228/IMG_8634.jpg)
-- ![](assets/images/20240228/IMG_8302.jpg)
-- ![](assets/images/20240228/IMG_8677.jpg)
-- ![](assets/images/20240228/IMG_8745.jpg)
-- ![](assets/images/202308/IMG_6164.jpg)
-- ![](assets/images/202308/IMG_7145.jpg)
-- ![](assets/images/202308/IMG_7107.jpg)
-- ![](assets/images/202308/IMG_6265.jpg)
-- ![](assets/images/202308/IMG_7292.jpg)
-- ![](assets/images/202308/IMG_7293.jpg)
-- ![](assets/images/202308/IMG_7294.jpg)
-- ![](assets/images/202308/IMG_7297.jpg)
-- ![](assets/images/202308/IMG_7327.jpg)
-- ![](assets/images/202308/IMG_7344.jpg)
-- ![](assets/images/vitrine/IMG_5873.jpg)
-- ![](assets/images/vitrine/IMG_5875.jpg)
-- ![](assets/images/vitrine/IMG_5869.jpg)
-- ![](assets/images/vitrine/IMG_5888.jpg)
-- ![](assets/images/vitrine/IMG_5600.jpg)
-- ![](assets/images/vitrine/IMG_5555.jpg)
-- ![](assets/images/vitrine/IMG_5578.jpg)
-- ![](assets/images/vitrine/IMG_5759.jpg)
-- ![](assets/images/vitrine/IMG_5583.jpg)
-- ![](assets/images/vitrine/IMG_5878.jpg)
+- ![](assets/images/20240228/IMG_7816.jpg){lazyload}
+- ![](assets/images/20240228/IMG_7817.jpg){lazyload}
+- ![](assets/images/20240228/IMG_7870.jpg){lazyload}
+- ![](assets/images/20240228/IMG_8303.jpg){lazyload}
+- ![](assets/images/20240228/IMG_8541.jpg){lazyload}
+- ![](assets/images/20240228/IMG_8601.jpg){lazyload}
+- ![](assets/images/20240228/IMG_8634.jpg){lazyload}
+- ![](assets/images/20240228/IMG_8302.jpg){lazyload}
+- ![](assets/images/20240228/IMG_8677.jpg){lazyload}
+- ![](assets/images/20240228/IMG_8745.jpg){lazyload}
+- ![](assets/images/202308/IMG_6164.jpg){lazyload}
+- ![](assets/images/202308/IMG_7145.jpg){lazyload}
+- ![](assets/images/202308/IMG_7107.jpg){lazyload}
+- ![](assets/images/202308/IMG_6265.jpg){lazyload}
+- ![](assets/images/202308/IMG_7292.jpg){lazyload}
+- ![](assets/images/202308/IMG_7293.jpg){lazyload}
+- ![](assets/images/202308/IMG_7294.jpg){lazyload}
+- ![](assets/images/202308/IMG_7297.jpg){lazyload}
+- ![](assets/images/202308/IMG_7327.jpg){lazyload}
+- ![](assets/images/202308/IMG_7344.jpg){lazyload}
+- ![](assets/images/vitrine/IMG_5873.jpg){lazyload}
+- ![](assets/images/vitrine/IMG_5875.jpg){lazyload}
+- ![](assets/images/vitrine/IMG_5869.jpg){lazyload}
+- ![](assets/images/vitrine/IMG_5888.jpg){lazyload}
+- ![](assets/images/vitrine/IMG_5600.jpg){lazyload}
+- ![](assets/images/vitrine/IMG_5555.jpg){lazyload}
+- ![](assets/images/vitrine/IMG_5578.jpg){lazyload}
+- ![](assets/images/vitrine/IMG_5759.jpg){lazyload}
+- ![](assets/images/vitrine/IMG_5583.jpg){lazyload}
+- ![](assets/images/vitrine/IMG_5878.jpg){lazyload}
 
 </div>
 
@@ -49,15 +49,15 @@ Bienvenue chez **Elyse Amadei**, créatrice d'**accessoires de mode faits main e
 
 <div class="grid cards" markdown>
 
-- ![](assets/images/202308/IMG_6806.jpg)
-- ![](assets/images/202308/IMG_6811.jpg)
-- ![](assets/images/202308/IMG_6816.jpg)
-- ![](assets/images/202308/IMG_6817.jpg)
-- ![](assets/images/202308/IMG_6824.jpg)
-- ![](assets/images/202308/IMG_6827.jpg)
-- ![](assets/images/202308/IMG_6830.jpg)
-- ![](assets/images/202308/IMG_6820.jpg)
-- ![](assets/images/vitrine/IMG_5967.jpg)
-- ![](assets/images/202308/IMG_6814.jpg)
+- ![](assets/images/202308/IMG_6806.jpg){lazyload}
+- ![](assets/images/202308/IMG_6811.jpg){lazyload}
+- ![](assets/images/202308/IMG_6816.jpg){lazyload}
+- ![](assets/images/202308/IMG_6817.jpg){lazyload}
+- ![](assets/images/202308/IMG_6824.jpg){lazyload}
+- ![](assets/images/202308/IMG_6827.jpg){lazyload}
+- ![](assets/images/202308/IMG_6830.jpg){lazyload}
+- ![](assets/images/202308/IMG_6820.jpg){lazyload}
+- ![](assets/images/vitrine/IMG_5967.jpg){lazyload}
+- ![](assets/images/202308/IMG_6814.jpg){lazyload}
 
 </div>
