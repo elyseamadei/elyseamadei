@@ -12,6 +12,16 @@ Bienvenue chez **Elyse Amadei**, créatrice d'**accessoires de mode faits main e
 
 <div class="grid cards" markdown>
 
+- ![](assets/images/20240228/IMG_7816.jpg)
+- ![](assets/images/20240228/IMG_7817.jpg)
+- ![](assets/images/20240228/IMG_7870.jpg)
+- ![](assets/images/20240228/IMG_8303.jpg)
+- ![](assets/images/20240228/IMG_8541.jpg)
+- ![](assets/images/20240228/IMG_8601.jpg)
+- ![](assets/images/20240228/IMG_8634.jpg)
+- ![](assets/images/20240228/IMG_8302.jpg)
+- ![](assets/images/20240228/IMG_8677.jpg)
+- ![](assets/images/20240228/IMG_8745.jpg)
 - ![](assets/images/202308/IMG_6164.jpg)
 - ![](assets/images/202308/IMG_7145.jpg)
 - ![](assets/images/202308/IMG_7107.jpg)
